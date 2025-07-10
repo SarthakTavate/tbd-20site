@@ -212,7 +212,7 @@ export default function Index() {
       </section>
 
       {/* Services Section */}
-      <section id="services" className="py-20 px-4">
+      <section id="services" className="py-20 px-4 mx-10">
         <div className="max-w-7xl mx-auto">
           <div className="mb-16">
             <div className="flex items-center gap-4 mb-4">
