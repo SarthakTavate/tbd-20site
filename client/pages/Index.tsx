@@ -286,7 +286,7 @@ export default function Index() {
             />
           </div>
 
-          <div className="text-white">
+          <div className="text-white mr-10">
             <div className="mb-8">
               <div className="flex items-center gap-4 mb-4">
                 <div className="w-3 h-0.5 bg-black"></div>
