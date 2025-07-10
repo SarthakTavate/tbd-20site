@@ -548,7 +548,7 @@ export default function Index() {
           </div>
 
           {/* Contact Form */}
-          <div>
+          <div className="mr-10">
             <h3 className="text-2xl font-bold text-white mb-8">Write to Us:</h3>
             <form className="space-y-6">
               <div>
