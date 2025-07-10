@@ -74,9 +74,17 @@ export default function Index() {
         {/* Hero Content */}
         <div className="relative z-10 text-center text-white max-w-5xl px-4">
           <h1 className="text-5xl md:text-7xl lg:text-8xl font-black uppercase leading-tight tracking-tight mb-8">
-            We design & build places
+            <span
+              className="opacity-[0.78]"
+              style={{
+                textShadow: "1px 1px 3px rgba(93, 93, 93, 1)",
+                fontSize: "65px",
+              }}
+            >
+              We design & build places
+            </span>
             <br />
-            where people thrive
+            <span style={{ fontSize: "65px" }}>where people thrive</span>
           </h1>
 
           <div className="flex items-center justify-center gap-4 mt-12">
