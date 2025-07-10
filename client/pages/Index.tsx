@@ -479,14 +479,14 @@ export default function Index() {
         <div className="max-w-7xl mx-auto grid grid-cols-1 lg:grid-cols-3 gap-16">
           {/* Company Info */}
           <div className="text-white">
-            <div className="mb-8">
+            <div className="mb-8 ml-10">
               <div className="flex items-center gap-4 mb-4">
                 <div className="w-3 h-0.5 bg-white"></div>
                 <span className="text-sm font-bold text-gray-300 uppercase tracking-widest">
                   Get in touch
                 </span>
               </div>
-              <h2 className="text-4xl lg:text-5xl font-black capitalize mb-6">
+              <h2 className="text-3xl lg:text-4xl font-black capitalize mb-6">
                 Thrive by design, LLC
               </h2>
               <p className="text-xl font-bold text-gray-300 mb-8">
