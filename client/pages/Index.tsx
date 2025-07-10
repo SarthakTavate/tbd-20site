@@ -155,7 +155,7 @@ export default function Index() {
 
       {/* Portfolio Section */}
       <section className="bg-primary py-20 px-4">
-        <div className="max-w-7xl mx-auto">
+        <div className="max-w-7xl mx-10">
           <div className="mb-16">
             <div className="flex items-center gap-4 mb-4">
               <div className="w-3 h-0.5 bg-black"></div>
