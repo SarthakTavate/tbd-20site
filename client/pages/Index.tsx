@@ -499,7 +499,7 @@ export default function Index() {
               </p>
             </div>
 
-            <div className="mb-8">
+            <div className="mb-8 ml-10">
               <h3 className="text-2xl font-bold mb-4">Follow us:</h3>
               <div className="flex gap-6">
                 <Facebook className="w-8 h-8 text-white hover:text-gray-300 cursor-pointer" />
