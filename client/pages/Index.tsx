@@ -475,7 +475,7 @@ export default function Index() {
       </section>
 
       {/* Contact Section */}
-      <section id="contact" className="bg-primary py-20 px-4">
+      <section id="contact" className="bg-primary py-20 px-4 ml-1">
         <div className="max-w-7xl mx-auto grid grid-cols-1 lg:grid-cols-3 gap-16">
           {/* Company Info */}
           <div className="text-white">
