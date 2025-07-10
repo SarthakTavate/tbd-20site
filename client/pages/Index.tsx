@@ -405,7 +405,7 @@ export default function Index() {
       </section>
 
       {/* Partners/Certifications */}
-      <section className="py-16 px-4 border-t">
+      <section className="py-16 px-4 border-t bg-primary">
         <div className="max-w-7xl mx-auto">
           <div className="flex flex-wrap justify-center items-center gap-16 opacity-60">
             <img
