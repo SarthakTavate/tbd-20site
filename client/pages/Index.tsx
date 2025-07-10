@@ -174,8 +174,8 @@ export default function Index() {
               <button
                 key={filter}
                 onClick={() => setActiveFilter(filter)}
-                className={`px-6 py-3 rounded-full border border-gray-600 text-white capitalize transition-colors hover:bg-white hover:text-primary ${
-                  activeFilter === filter ? "bg-white text-primary" : ""
+                className={`px-6 py-3 rounded-full border border-gray-600 capitalize transition-colors hover:bg-white hover:text-primary ${
+                  activeFilter === filter ? "bg-white text-black" : "text-white"
                 }`}
               >
                 {filter}
