@@ -292,18 +292,24 @@ export default function Index() {
             </div>
 
             <div className="relative">
-              <div className="text-6xl text-gray-300 font-playfair mb-4">"</div>
-              <p className="text-xl font-playfair leading-relaxed mb-8">
+              <div className="text-8xl text-gray-200 font-playfair leading-none mb-4 -ml-2">
+                "
+              </div>
+              <p className="text-xl font-playfair leading-relaxed mb-8 tracking-wide">
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit.
                 Placerat venenatis tempor, turpis dolor. Aliquam faucibus velit,
                 volutpat vulputate risus. Urna enim donec sed fringilla blandit
                 arcu mi quam semper nunc.
               </p>
               <div>
-                <h4 className="text-lg font-bold capitalize">Scott S.</h4>
-                <p className="text-sm text-gray-300 capitalize">CEO, Abc</p>
+                <h4 className="text-xl font-bold capitalize tracking-wide">
+                  Scott S.
+                </h4>
+                <p className="text-sm text-gray-300 capitalize tracking-wide">
+                  CEO, Abc
+                </p>
               </div>
-              <div className="text-6xl text-gray-300 font-playfair absolute -bottom-4 right-0">
+              <div className="text-8xl text-gray-200 font-playfair absolute -bottom-8 -right-2 leading-none">
                 "
               </div>
             </div>
