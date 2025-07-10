@@ -510,7 +510,10 @@ export default function Index() {
           </div>
 
           {/* Contact Info */}
-          <div className="bg-white p-8 rounded-lg">
+          <div
+            className="bg-white rounded-lg"
+            style={{ padding: "32px 32px 87px" }}
+          >
             <div className="space-y-8">
               <div className="flex items-start gap-4">
                 <MapPin className="w-6 h-6 text-primary mt-1" />
